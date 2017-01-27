@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="main">
+    <button  bindtap="navToInfo" class="btn-warning btn-lg mgl-0" hover-class="btn-hover-default"> 填写个人信息 </button>
+    <button  bindtap="navToMenu" class="btn-primary btn-lg mgt-20 mgl-35 " hover-class="btn-hover-default"> 开始订制食谱 </button>
+    <button  bindtap="navToMyMenu" class="btn-annotation btn-lg mgt-20 mgl-70" hover-class="btn-hover-default"> 我今天的食谱 </button>
+    <button  bindtap="navToSugarRecord" class="btn-success btn-lg mgt-20 mgl-105" hover-class="btn-hover-default"> 登记血糖变化 </button>
+  </view>
+  
+  
+</view>

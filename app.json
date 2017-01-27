@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/info_base/info_base",
+    "pages/info_illness_history/info_illness_history",
+    "pages/info_extender/info_extender",
+    "pages/info_child_history/info_child_history",
+    "pages/info_check_result/info_check_result"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "订制食谱",
+    "navigationBarTextStyle":"black"
+  }
+}
